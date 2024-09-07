@@ -1,0 +1,30 @@
+name: Push Files
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes My CV file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        # Repository Secrets
+        API_TOKEN_GITHUB: ${{ secrets.COPY_FILES_ACROSS_REPO }}
+      with:
+        source_file: "Kittipos-CV.pdf"
+        destination_repo: 'Lightbridge-KS/kittipos-cv-typst'
+        destination_branch: output
+        user_email: 'ki11ip0.s.a.s@gmail.com'
+        user_name: 'Lightbridge-KS'
+        commit_message: 'Copied My CV PDF file to output branch'
