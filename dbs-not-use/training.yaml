@@ -1,0 +1,24 @@
+# methods:
+#   course2:
+#     title: Bayesian modelling in the Social Sciences
+#     location: An expensive Spring Seminar 
+#     left: "2024"
+#   course1:
+#     title: Applied multilevel regression modelling
+#     location: The coolest PhD Summer School
+#     left: "2023"
+# didactics:
+#   course2:
+#     title:
+#       en: Conflict competence I + II
+#     location: 
+#       en: University Alliance
+#     left: "2019"
+#   course1:
+#     title:
+#       en: Certificate of Competence in Higher Education
+#     subtitle:
+#       en: 14 workshops & 1 teaching project
+#     location: 
+#       en: University Alliance
+#     left: 2015-2017

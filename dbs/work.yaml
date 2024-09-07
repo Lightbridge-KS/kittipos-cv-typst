@@ -1,0 +1,33 @@
+entry:
+  title:
+    en: Residency trainee
+    th: แพทย์ประจําบ้าน  
+  subtitle:
+    en: Department of Diagnostic and Therapeutic Radiology
+    th: ภาควิชารังสีวิทยา สาขาวิชารังสีวิทยาวินิจฉัย
+  location:
+    en: Faculty of Medicine Ramathibodi Hospital, Mahidol University
+    th: คณะแพทยศาสตร์โรงพยาบาล รามาธิบดี มหาวิทยาลัยมหิดล
+  left: 2022 – Present
+entry1:
+  title:
+    en: Internship
+    th: แพทย์ใช้ทุน
+  subtitle:
+    en: Department of Physiology
+    th: ภาควิชาสรีรวิทยา 
+  location:
+    en: Faculty of Medicine Siriraj Hospital, Mahidol University
+    th: คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
+  left: 2020 – 2022
+entry2:
+  title:
+    en: Internship
+    th: แพทย์เพิ่มพูนทักษะ
+  subtitle:
+    en: Phra Nang Klao Hospital
+    th: โรงพยาบาลพระนั่งเกล้า
+  location:
+    en: Nonthaburi
+    th: จังหวัดนนทบุรี
+  left: 2019 – 2020

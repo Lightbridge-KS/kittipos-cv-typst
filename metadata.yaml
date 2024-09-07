@@ -1,0 +1,33 @@
+colors:
+  main_color: "#579D90"
+  lightgray_color: "#d5d5d5"
+  gray_color: "#737373"
+personal:
+  name: ["Sirivongrungson, Kittipos"]
+  split: true
+  socials:
+    github:
+      username: Lightbridge-KS
+      icon: github
+      set: fa
+      prefix: https://github.com/
+    email:
+      username: kittipos.sir@gmail.com
+      icon: paper-plane
+      set: fa
+      prefix: "mailto:"
+    # homepage:
+    #   username: lightbridge.netlify.app
+    #   icon: globe
+    #   set: fa
+    #   prefix: https://
+    orcid:
+      username: 0000-0003-3075-5159
+      icon: orcid
+      set: ai
+      prefix: https://orcid.org
+    # linkedin:
+    #   username: momo
+    #   icon: linkedin
+    #   set: fa
+    #   prefix: https://linkedin.com/in/

@@ -1,0 +1,31 @@
+# grant3:
+#   title:
+#     en: Research Travel Grant
+#   subtitle:
+#     en: Alexander von Humboldt Foundation
+#   location:
+#     en: Brazil
+#   left: "2024"
+#   description:
+#     en: "amount: 1,250 Euros"
+# grant2:
+#   title:
+#     en: Conference Participation Grant
+#   subtitle:
+#     en: Fritz Thyssen Foundation
+#   location:
+#     en: Annual Meeting of the German Political Science Association, University of Cologne
+#   left: "2023"
+#   description:
+#     en: "amount: 1,500 Euros"
+# grant1:
+#   title:
+#     en: Research Grant
+#   subtitle:
+#     en: German Research Foundation (DFG)
+#   location:
+#     en: 'Research Project: "Democratization in Authoritarian Regimes," Freie Universität Berlin'
+#   left: "2022"
+#   description:
+#     en: "amount: 380,000 Euros"
+    

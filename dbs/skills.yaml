@@ -1,0 +1,66 @@
+computer:
+  r:
+    name: R
+    level: 3
+    description:
+      en: "Explored many R's landscapes: including data analysis, stats/ML, also develop R package and web app"
+  python:
+    name: Python
+    level: 2
+    description:
+      en: "Intermediate user: still learning and advancing my skills"
+  julia:
+    name: Julia
+    level: 1
+    description:
+      en: "Some basic knowledge"
+  js-html-css:
+    name: JS / HTML / CSS
+    level: 1
+    description:
+      en: "Some basic knowledge of web development"
+  typst:
+    name: LaTeX / Typst
+    level: 2
+    description:
+      en: For presentations, reports, and CV
+programs:
+  vscode:
+    name: VS code
+    level: 3
+    description:
+      en: Regularly used for software and data analysis work
+  rstudio:
+    name: RStudio
+    level: 3
+    description:
+      en: "Quite longstanding experience; used for many R-related work"
+  quarto-jupyter:
+    name: Quarto / Jupyter
+    level: 3
+    description:
+      en: "Literate Programming: used as tools for reproducible & explainable reports"
+  git_gh: 
+    name: Git / GitHub
+    level: 3
+    description:
+      en: "A version control of choice for all of my projects"
+  office:
+    name: Office
+    level: 3
+    description:
+      en: longstanding experience (Win/MacOS)
+languages:
+  thai:
+    name:
+      en: Thai
+    level: 4
+    description:
+      en: Native Thai speaker
+  english:
+    name:
+      en: English
+    level: 3
+    description:
+      en: "Quite decent at reading, writing, and listening. Not fluent at speaking (IELTS Academic test = 7)."
+

@@ -1,0 +1,20 @@
+# "2024":
+#   course1:
+#     summer: T
+#     name:
+#       en: "Statistics+: Starting with R (de)"
+#     study:
+#       en: Bachelor
+# "2023":
+#   course2:
+#     summer: F
+#     name:
+#       en: Analyzing political support (de)
+#     study:
+#       en: Master
+#   course1:
+#     summer: T
+#     name:
+#       en: Empirical method essentials (de)
+#     study:
+#       en: Bachelor

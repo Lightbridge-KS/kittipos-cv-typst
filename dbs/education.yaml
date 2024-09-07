@@ -1,0 +1,18 @@
+doctor:
+  title: 
+    en: Doctor of Medicine
+  subtitle:
+    en: second-class honor
+  location:
+    en: Faculty of Medicine Ramathibodi Hospital, Mahidol University
+  # description:
+  #   en: with distinction
+  left: "2013 – 2018"
+bachelor:
+  title:
+    en: Triamudom Saksa School
+  subtitle:
+    en: pathumwan
+  location:
+    en: Bangkok
+  left: "2010 - 2012"

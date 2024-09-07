@@ -1,0 +1,99 @@
+lang:
+  en:
+    subtitle: Curriculum Vitae
+    education: Professional Education
+    work: Work Experience
+    grants: Scholarships & awards
+    # software: Software
+    software-r-pkg: R Package Projects
+    app: Application Projects
+    # pubs: Publications
+    # pubs-note: 'C: Corresponding Author'
+    # pubs-peer: Peer-reviewed journals
+    # pubs-edited: Contributions in edited books
+    # pubs-book: Books
+    # pubs-reports: (Technical) Reports & teaching materials
+    # pubs-upcoming: Planned publications
+    confs: Conferences & invited talks
+    confs-conf: Conferences
+    exp-confs: "P: paper/presentation, C: chair"
+    confs-talks: Invited talks
+    committee: Committee work & voluntary roles (selection)
+    teaching: Teaching experience (Justus-Liebig-University Giessen)
+    teaching-thesis: Supervised theses
+    teaching-courses: Teaching (selected)
+    training: Additional Training
+    training-methods: Methods training
+    training-didactics: Didactics
+    tab-course: Course
+    tab-study: Study program
+    tab-year: Term
+    tab-note: "Course language: (de) German, (en) English"
+    table-summer: "Summer"
+    table-winter: "Winter"
+    others: Further skills
+    skills-computer: Computer languages
+    skills-programs: Software
+    skills-languages: Languages
+    skills-tab-skills: Skill
+    skills-tab-level: Level
+    skills-tab-comment: Comment
+    skills-leg1: basic knowledge
+    skills-leg2: intermediate knowledge
+    skills-leg3: extensive knowledge
+    skills-leg4: expert knowledge
+    pubstate-inpreparation: in preparation
+    pubstate-submitted: submitted
+    pubstate-forthcoming: forthcoming
+    pubstate-inpress: in press
+    pubstate-prepub: preprint
+    date-format: "[month repr:long] [day], [year]"
+  th:
+    subtitle: ประวัติย่อ
+    education: การศึกษาระดับสูง
+    work: ประสบการณ์การทำงาน
+    grants: ทุนการศึกษาและรางวัล
+    software: Software
+    software-r-pkg: R Package Projects
+    app: Application Projects
+    pubs: สิ่งตีพิมพ์
+    pubs-note: 'C: ผู้เขียนที่ติดต่อได้'
+    pubs-peer: วารสารที่ผ่านการตรวจสอบจากเพื่อนร่วมงาน
+    pubs-edited: ผลงานที่มีส่วนร่วมในหนังสือที่แก้ไขแล้ว
+    pubs-book: หนังสือ
+    pubs-reports: รายงาน (ทางเทคนิค) และเอกสารการสอน
+    pubs-upcoming: สิ่งตีพิมพ์ที่วางแผนไว้
+    confs: การประชุมและการบรรยายที่ได้รับเชิญ
+    confs-conf: การประชุม
+    exp-confs: "P: กระดาษ/การนำเสนอ, C: ประธาน"
+    confs-talks: การบรรยายที่ได้รับเชิญ
+    committee: งานคณะกรรมการและบทบาทอาสาสมัคร (ที่เลือกมา)
+    teaching: ประสบการณ์การสอน (มหาวิทยาลัย Justus-Liebig)
+    teaching-thesis: วิทยานิพนธ์ที่ดูแล
+    teaching-courses: การสอน (ที่เลือกมา)
+    training: การฝึกอบรมเพิ่มเติม
+    training-methods: การฝึกอบรมวิธีการ
+    training-didactics: การสอน
+    tab-course: หลักสูตร
+    tab-study: โปรแกรมการศึกษา
+    tab-year: เทอม
+    tab-note: "ภาษาของหลักสูตร: (de) เยอรมัน, (en) อังกฤษ"
+    table-summer: "ฤดูร้อน"
+    table-winter: "ฤดูหนาว"
+    others: ทักษะเพิ่มเติม
+    skills-computer: ภาษาคอมพิวเตอร์
+    skills-programs: ซอฟต์แวร์
+    skills-languages: ภาษา
+    skills-tab-skills: ทักษะ
+    skills-tab-level: ระดับ
+    skills-tab-comment: ความคิดเห็น
+    skills-leg1: ความรู้พื้นฐาน
+    skills-leg2: ความรู้ระดับกลาง
+    skills-leg3: ความรู้กว้างขวาง
+    skills-leg4: ความเชี่ยวชาญ
+    pubstate-inpreparation: กำลังเตรียม
+    pubstate-submitted: ส่งแล้ว
+    pubstate-forthcoming: กำลังจะตีพิมพ์
+    pubstate-inpress: อยู่ระหว่างพิมพ์
+    pubstate-prepub: พิมพ์ล่วงหน้า
+    date-format: "[month repr:long] [day], [year]"
