@@ -20,7 +20,7 @@ jobs:
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
         # Repository Secrets
-        API_TOKEN_GITHUB: ${{ secrets.push-file }}
+        API_TOKEN_GITHUB: ${{ secrets.PUSH_FILE }}
       with:
         source_file: "Kittipos-CV.pdf"
         destination_repo: 'Lightbridge-KS/kittipos-cv-typst'
