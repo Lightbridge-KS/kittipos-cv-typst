@@ -114,7 +114,9 @@
 - *Statistical Learning by StanfordOnline* (edX) --- #certificate("https://courses.edx.org/certificates/5547b0ad382e4372b5173f4d482d60a5")
 - *Advanced R Programming by Johns Hopkins University* (Coursera) --- #certificate("https://coursera.org/share/73621d441d07e2fd00ee0ac0ec19bb38")
 - *Data Analysis with R Programming by Google* (Coursera) --- #certificate("https://coursera.org/share/a7341c020f68003ae532547d73fc4ccf")
+- *LangChain for LLM Application Development* short course by DeepLearning.AI --- #certificate("https://learn.deeplearning.ai/accomplishments/31ddf9a5-e5c4-4db5-aa3a-7ce89d87e3b4?usp=sharing")
 ]
+
 
 == Others
 
