@@ -6,6 +6,7 @@ lang:
     grants: Scholarships & awards
     # software: Software
     software-r-pkg: R Package Projects
+    software-py-pkg: Python Package Projects
     app: Application Projects
     # pubs: Publications
     # pubs-note: 'C: Corresponding Author'

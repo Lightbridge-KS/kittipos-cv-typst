@@ -3,38 +3,43 @@ computer:
     name: R
     level: 3
     description:
-      en: "Explored many R's landscapes: including data analysis, stats/ML, also develop R package and web app"
+      en: "Advanced proficiency across data analysis, statistics/ML, R package development, and Shiny web applications"
   python:
     name: Python
     level: 2
     description:
-      en: "Intermediate user: still learning and advancing my skills"
-  julia:
-    name: Julia
-    level: 1
-    description:
-      en: "Some basic knowledge"
+      en: "Intermediate proficiency with expanding knowledge in data science, AI, and application developement"
   js-html-css:
     name: JS / HTML / CSS
     level: 1
     description:
-      en: "Some basic knowledge of web development"
+      en: "Foundational knowledge of web development technologies and interactive content creation"
+  flutter-dart:
+    name: Flutter / Dart
+    level: 1
+    description:
+      en: "Beginner exploring cross-platform application development capabilities"
+  julia:
+    name: Julia
+    level: 1
+    description:
+      en: "Basic understanding of syntax"
   typst:
     name: LaTeX / Typst
     level: 2
     description:
-      en: For presentations, reports, and CV
+      en: "For presentations, reports, and CV"
 programs:
   vscode:
     name: VS code
     level: 3
     description:
-      en: Regularly used for software and data analysis work
+      en: "Regularly used for software development and data analysis projects"
   rstudio:
     name: RStudio
     level: 3
     description:
-      en: "Quite longstanding experience; used for many R-related work"
+      en: "Power user with extensive experience in R workflow and analysis"
   quarto-jupyter:
     name: Quarto / Jupyter
     level: 3
@@ -44,23 +49,23 @@ programs:
     name: Git / GitHub
     level: 3
     description:
-      en: "A version control of choice for all of my projects"
+      en: "Proficient in version control, collaborative workflows, and CI/CD implementation"
   office:
     name: Office
     level: 3
     description:
-      en: longstanding experience (Win/MacOS)
+      en: Longstanding experience (Win/MacOS)
 languages:
-  thai:
-    name:
-      en: Thai
-    level: 4
-    description:
-      en: Native Thai speaker
+  # thai:
+  #   name:
+  #     en: Thai
+  #   level: 4
+  #   description:
+  #     en: Native Thai speaker
   english:
     name:
       en: English
     level: 3
     description:
-      en: "Quite decent at reading, writing, and listening. Not fluent at speaking (IELTS Academic test = 7)."
+      en: "Professional working proficiency in reading, writing, and listening (IELTS Academic score: 7.0)"
 

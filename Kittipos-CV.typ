@@ -73,6 +73,7 @@
 #pad(left: 9em, top: 1em)[
 - #link("https://kittipos-sir.shinyapps.io/tirads-calculator/")[*TIRADS Calculator:*] Calculator for Thyroid Imaging Reporting & Data System @tirads-calc-app
 - #link("https://github.com/Lightbridge-KS/designCTER/")[*DesignCTER:*] Generate CT protocols template in emergency department @DesignCTER
+- #link("https://github.com/Lightbridge-KS/lungcancer-staging-app")[*Lung Cancer Staging ChatBot:*] LLM-powered chatbot for staging lung cancer @LungCancerStaging
 - #link("https://github.com/Lightbridge-KS/adrenal_washout_app")[*AWC:*] Calculate adrenal percentage washout in multiphase CT @AdrenalWashoutCT
 ]
 
@@ -80,6 +81,14 @@
 
 #pad(left: 9em, top: 1em)[
 - #link("https://kittipos.shinyapps.io/harvard-spirometer/")[*Harvard Spirometer Tracing Simulator:*] Simulate Harvard Spirometer tracing from mathematical model @HarvardSpirometer-app
+]
+
+= #headerLabs.at("software-py-pkg")
+
+== Radiology
+
+#pad(left: 9em, top: 1em)[
+- #link("https://lightbridge-ks.github.io/radreportparser/")[*RadReportParser:*] Parse and extract key sections from radiology reports text @radreportparser
 ]
 
 = #headerLabs.at("software-r-pkg")
@@ -114,9 +123,10 @@
 - *Statistical Learning by StanfordOnline* (edX) --- #certificate("https://courses.edx.org/certificates/5547b0ad382e4372b5173f4d482d60a5")
 - *Advanced R Programming by Johns Hopkins University* (Coursera) --- #certificate("https://coursera.org/share/73621d441d07e2fd00ee0ac0ec19bb38")
 - *Data Analysis with R Programming by Google* (Coursera) --- #certificate("https://coursera.org/share/a7341c020f68003ae532547d73fc4ccf")
-- *LangChain for LLM Application Development* short course by DeepLearning.AI --- #certificate("https://learn.deeplearning.ai/accomplishments/31ddf9a5-e5c4-4db5-aa3a-7ce89d87e3b4?usp=sharing")
+- *Short course* by DeepLearning.AI
+  - LangChain for LLM Application Development --- #certificate("https://learn.deeplearning.ai/accomplishments/31ddf9a5-e5c4-4db5-aa3a-7ce89d87e3b4?usp=sharing")
+  - LangChain Chat with Your Data --- #certificate("https://learn.deeplearning.ai/accomplishments/ef6f0756-a43f-4a34-a0fe-56479970b3d7?usp=sharing")
 ]
-
 
 == Others
 
