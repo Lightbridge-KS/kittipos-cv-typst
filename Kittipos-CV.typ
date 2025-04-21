@@ -75,6 +75,7 @@
 - #link("https://github.com/Lightbridge-KS/designCTER/")[*DesignCTER:*] Generate CT protocols template in emergency department @DesignCTER
 - #link("https://github.com/Lightbridge-KS/lungcancer-staging-app")[*Lung Cancer Staging ChatBot:*] LLM-powered chatbot for staging lung cancer @LungCancerStaging
 - #link("https://github.com/Lightbridge-KS/adrenal_washout_app")[*AWC:*] Calculate adrenal percentage washout in multiphase CT @AdrenalWashoutCT
+- #link("https://nm-bmd-helper-lightbridge.netlify.app")[*BMD Helper:*] BMD helper calculator for nuclear medicine division @BMDHelper
 ]
 
 == Physiology
