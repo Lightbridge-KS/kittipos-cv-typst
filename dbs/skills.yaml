@@ -9,16 +9,16 @@ computer:
     level: 2
     description:
       en: "Intermediate proficiency with expanding knowledge in data science, AI, and application developement"
+  flutter-dart:
+    name: Flutter / Dart
+    level: 2
+    description:
+      en: "Intermediate proficiency for application development"
   js-html-css:
     name: JS / HTML / CSS
     level: 1
     description:
       en: "Foundational knowledge of web development technologies and interactive content creation"
-  flutter-dart:
-    name: Flutter / Dart
-    level: 1
-    description:
-      en: "Beginner exploring cross-platform application development capabilities"
   julia:
     name: Julia
     level: 1
