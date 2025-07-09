@@ -1,5 +1,16 @@
 entry:
   title:
+    en: Diagnostic Radiologist & Data Scientist 
+    th: รังสีแพทย์   
+  subtitle:
+    en: Department of Diagnostic and Therapeutic Radiology
+    th: ภาควิชารังสีวิทยา สาขาวิชารังสีวิทยาวินิจฉัย
+  location:
+    en: Faculty of Medicine Ramathibodi Hospital, Mahidol University
+    th: คณะแพทยศาสตร์โรงพยาบาล รามาธิบดี มหาวิทยาลัยมหิดล
+  left: 2025 – Present
+entry1:
+  title:
     en: Residency trainee
     th: แพทย์ประจําบ้าน  
   subtitle:
@@ -8,8 +19,8 @@ entry:
   location:
     en: Faculty of Medicine Ramathibodi Hospital, Mahidol University
     th: คณะแพทยศาสตร์โรงพยาบาล รามาธิบดี มหาวิทยาลัยมหิดล
-  left: 2022 – Present
-entry1:
+  left: 2022 – 2025
+entry2:
   title:
     en: Internship
     th: แพทย์ใช้ทุน
@@ -20,7 +31,7 @@ entry1:
     en: Faculty of Medicine Siriraj Hospital, Mahidol University
     th: คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
   left: 2020 – 2022
-entry2:
+entry3:
   title:
     en: Internship
     th: แพทย์เพิ่มพูนทักษะ
