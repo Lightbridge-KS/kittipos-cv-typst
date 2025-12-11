@@ -71,6 +71,7 @@
 == Radiology
 
 #pad(left: 9em, top: 1em)[
+- Design and development of the frontend UI of the *RAMAAI CXR Solution* v1.0.1 
 - #link("https://kittipos-sir.shinyapps.io/tirads-calculator/")[*TIRADS Calculator:*] Calculator for Thyroid Imaging Reporting & Data System @tirads-calc-app
 - #link("https://github.com/Lightbridge-KS/designCTER/")[*DesignCTER:*] Generate CT protocols template in emergency department @DesignCTER
 - #link("https://github.com/Lightbridge-KS/lungcancer-staging-app")[*Lung Cancer Staging ChatBot:*] LLM-powered chatbot for staging lung cancer @LungCancerStaging
@@ -87,6 +88,8 @@
 = #headerLabs.at("software-py-pkg")
 
 == Radiology
+
+- Design and 
 
 #pad(left: 9em, top: 1em)[
 - #link("https://lightbridge-ks.github.io/radreportparser/")[*RadReportParser:*] Parse and extract key sections from radiology reports text @radreportparser
