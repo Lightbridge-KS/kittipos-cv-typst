@@ -1,3 +1,11 @@
+radiologist:
+  title:
+    en: Diploma of the Diagnostic Radiology
+  subtitle:
+    en: "Thai Board"
+  location:
+    en: Department of Diagnostic and Therapeutic Radiology, Faculty of Medicine Ramathibodi Hospital, Mahidol University
+  left: "2022 – 2025"
 doctor:
   title: 
     en: Doctor of Medicine
